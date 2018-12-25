@@ -7,8 +7,6 @@ import us.codecraft.webmagic.Page;
 /**
  * PageConsumer
  *
- * @author Gao Shen
- * @version 16/7/8
  */
 @FunctionalInterface
 public interface PageConsumer {

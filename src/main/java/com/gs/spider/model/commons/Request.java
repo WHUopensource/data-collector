@@ -9,8 +9,6 @@ import java.util.function.Function;
 /**
  * Request
  *
- * @author Gao Shen
- * @version 16/4/1
  */
 public class Request {
     private String url;

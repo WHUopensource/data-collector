@@ -7,8 +7,6 @@ import java.util.Map;
 /**
  * Page
  *
- * @author Gao Shen
- * @version 16/4/1
  */
 public class Page {
     public transient Document document;

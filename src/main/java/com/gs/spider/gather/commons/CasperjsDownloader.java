@@ -14,8 +14,6 @@ import us.codecraft.webmagic.selector.PlainText;
 /**
  * CasperjsDownloader
  *
- * @author Gao Shen
- * @version 16/7/1
  */
 @Component
 public class CasperjsDownloader extends AbstractDownloader {

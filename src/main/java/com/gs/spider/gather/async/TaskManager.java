@@ -24,8 +24,6 @@ import com.gs.spider.utils.HttpClientUtil;
 /**
  * TaskManager
  *
- * @author Gao Shen
- * @version 16/2/15
  */
 @Component
 @Scope("prototype")

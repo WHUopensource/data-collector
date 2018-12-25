@@ -17,8 +17,6 @@ import java.util.Map;
 /**
  * Casperjs
  *
- * @author Gao Shen
- * @version 16/4/2
  */
 @Component
 public class Casperjs {

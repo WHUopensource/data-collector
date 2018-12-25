@@ -5,8 +5,6 @@ import java.io.Serializable;
 /**
  * BaseMsg
  *
- * @author Gao Shen
- * @version 16/4/21
  */
 public abstract class BaseMsg implements Serializable {
     protected static final long serialVersionUID = 1L;

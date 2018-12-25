@@ -32,8 +32,6 @@ import java.util.Set;
 /**
  * ContentLengthLimitHttpClientDownloader
  *
- * @author Gao Shen
- * @version 16/7/17
  */
 @Component
 public class ContentLengthLimitHttpClientDownloader extends HttpClientDownloader {

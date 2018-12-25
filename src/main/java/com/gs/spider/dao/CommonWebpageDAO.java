@@ -45,8 +45,6 @@ import static org.elasticsearch.index.query.QueryBuilders.moreLikeThisQuery;
 /**
  * CommonWebpageDAO
  *
- * @author Gao Shen
- * @version 16/4/18
  */
 @Component
 public class CommonWebpageDAO extends IDAO<Webpage> {

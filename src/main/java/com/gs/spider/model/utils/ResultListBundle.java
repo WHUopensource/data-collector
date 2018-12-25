@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.LinkedList;
 
 /**
- * Created by gaoshen on 16/1/5.
+ * Created
  */
 public class ResultListBundle<T> extends ResultBundle<T> {
     /**

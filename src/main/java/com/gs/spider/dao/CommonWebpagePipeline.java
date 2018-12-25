@@ -26,8 +26,6 @@ import java.util.Set;
 /**
  * CommonWebpagePipeline
  *
- * @author Gao Shen
- * @version 16/4/12
  */
 @Component
 public class CommonWebpagePipeline extends IDAO<Webpage> implements DuplicateRemover, Pipeline {

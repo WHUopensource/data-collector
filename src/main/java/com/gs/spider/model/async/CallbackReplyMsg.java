@@ -6,8 +6,6 @@ import org.apache.logging.log4j.Logger;
 /**
  * CallbackReplyMsg
  *
- * @author Gao Shen
- * @version 16/4/22
  */
 public class CallbackReplyMsg extends InfoMsg {
     private Logger LOG = LogManager.getLogger(CallbackReplyMsg.class);

@@ -3,8 +3,6 @@ package com.gs.spider.model.async;
 /**
  * LoginMsg
  *
- * @author Gao Shen
- * @version 16/4/22
  */
 public class LoginMsg extends BaseMsg {
 

@@ -27,8 +27,6 @@ import java.util.Map;
 /**
  * CommonWebpageController
  *
- * @author Gao Shen
- * @version 16/4/19
  */
 @RequestMapping("/commons/webpage")
 @Controller

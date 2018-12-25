@@ -2,7 +2,6 @@ package com.gs.spider.utils;
 
 /**
  * 表格分页工具
- * @author Hokis
  * 
  */
 public final class TablePage {

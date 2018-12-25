@@ -3,8 +3,6 @@ package com.gs.spider.model.async;
 /**
  * InfoMsg
  *
- * @author Gao Shen
- * @version 16/4/22
  */
 public class InfoMsg extends BaseMsg {
     private String info;

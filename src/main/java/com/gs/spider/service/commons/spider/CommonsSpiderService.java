@@ -33,8 +33,6 @@ import java.util.Map;
 /**
  * CommonsSpiderService
  *
- * @author Gao Shen
- * @version 16/4/13
  */
 @Component
 public class CommonsSpiderService extends AsyncGatherService {

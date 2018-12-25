@@ -12,7 +12,7 @@ import us.codecraft.webmagic.Task;
 import us.codecraft.webmagic.pipeline.Pipeline;
 
 /**
- * Created by gsh199449 on 2016/10/24.
+ * Created.
  */
 @Component
 public class CommonWebpageRedisPipeline implements Pipeline {

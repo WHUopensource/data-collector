@@ -6,7 +6,6 @@ import java.util.Properties;
 
 /**
  * 关于程序本身的一些信息
- * @author Hokis
  * 
  */
 public final class AppInfo {
