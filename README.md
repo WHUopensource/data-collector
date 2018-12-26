@@ -1,10 +1,10 @@
-# 欢迎使用 Gather Platform 数据采集与分析平台
+#  数据采集与分析平台
 
 ------
 
 
 
-Gather Platform 数据抓取平台是一套基于[Webmagic](https://github.com/code4craft/webmagic)内核的,具有Web任务配置和任务管理界面的数据采集与搜索平台.具有以下功能
+ 数据抓取平台是一套基于[Webmagic](https://github.com/code4craft/webmagic)内核的,具有Web任务配置和任务管理界面的数据采集与搜索平台.具有以下功能
 
 > * 根据配置的模板进行数据采集，支持**Ajax网页采集**
 > * 在不配置采集模板的情况下自动检测网页正文,自动抽取文章发布时间
@@ -15,8 +15,6 @@ Gather Platform 数据抓取平台是一套基于[Webmagic](https://github.com/c
 
 5分钟即可部署完毕,半分钟即可完成一个爬虫,开始数据采集.
 不需要进行任何编码就可以完成一个功能强大的爬虫.
-
-<img src="https://github.com/gsh199449/spider/blob/master/doc/imgs/show.gif?raw=true" alt="show"/>
 
 ## Windows/Mac/Linux 全平台支持
 
