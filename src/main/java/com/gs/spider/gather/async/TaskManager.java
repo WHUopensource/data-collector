@@ -149,7 +149,8 @@ public class TaskManager {
         task.setCallbackURL(callbackURL)
         	.setCallbackPara(callbackPara + "&taskId=" + taskId);
         task.setDescription("任务名称:" + name + "已初始化");
-        taskMap.put(task.getTaskId(), task);
+        taskMap.put(task
+                .getTaskId(), task);
         return task;
     }
 

@@ -42,9 +42,9 @@
         <property name="pipelineList">
             <list>
                 <!--Redis输出-->
-                <!--<ref bean="commonWebpageRedisPipeline"/>-->
-                <!--<ref bean="commonWebpagePipeline"/>-->
-                <ref bean="jsonFilePipeline"/>
+                <ref bean="commonWebpageRedisPipeline"/>
+                <ref bean="commonWebpagePipeline"/>
+                <!--<ref bean="jsonFilePipeline"/>-->
             </list>
         </property>
     </bean>

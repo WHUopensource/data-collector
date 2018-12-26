@@ -2,9 +2,6 @@ zip
 exe
 doc
 docx
-jpg
-png
-jpeg
 mp3
 mp4
 mkv
