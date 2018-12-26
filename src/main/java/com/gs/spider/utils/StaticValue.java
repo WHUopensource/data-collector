@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by gaoshen on 16/1/14.
+ * Created
  */
 @Component
 @Scope("singleton")

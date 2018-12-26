@@ -5,8 +5,6 @@ import java.util.Map;
 /**
  * LoginInfo
  *
- * @author Gao Shen
- * @version 16/4/1
  */
 public class LoginInfo {
 

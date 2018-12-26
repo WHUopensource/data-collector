@@ -34,8 +34,6 @@ import java.util.stream.Collectors;
 /**
  * CommonsSpiderPanel
  *
- * @author Gao Shen
- * @version 16/5/11
  */
 @Controller
 @RequestMapping("panel/commons")

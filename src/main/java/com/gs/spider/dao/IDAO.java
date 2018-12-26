@@ -32,8 +32,6 @@ import java.util.stream.Collectors;
  * IDAO
  * Elasticsearch数据接口
  *
- * @author Gao Shen
- * @version 16/1/25
  */
 public abstract class IDAO<T> {
     private static final int SCROLL_TIMEOUT = 5;

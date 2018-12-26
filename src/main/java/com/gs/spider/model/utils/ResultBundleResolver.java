@@ -18,8 +18,6 @@ import java.util.Locale;
 /**
  * ResultBundleResolver
  *
- * @author Gao Shen
- * @version 16/4/21
  */
 public class ResultBundleResolver {
     private static final SimpleDateFormat sdf = new SimpleDateFormat("EEE MMM dd HH:mm:ss zzz yyyy", Locale.US);

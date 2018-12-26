@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.*;
 /**
  * SpiderInfoController
  *
- * @author Gao Shen
- * @version 16/7/18
+ *
+ *
  */
 @RequestMapping("/commons/spiderinfo")
 @RestController

@@ -53,8 +53,6 @@ import java.util.stream.Collectors;
 /**
  * CommonSpider
  *
- * @author Gao Shen
- * @version 16/4/11
  */
 public class CommonSpider extends AsyncGather {
     private static final Logger LOG = LogManager.getLogger(CommonSpider.class);

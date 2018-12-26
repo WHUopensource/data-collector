@@ -16,8 +16,6 @@ import java.util.stream.Collectors;
 /**
  * NamedEntityExtractor
  *
- * @author Gao Shen
- * @version 16/7/14
  */
 @Component
 public class HANLPExtractor implements NLPExtractor {

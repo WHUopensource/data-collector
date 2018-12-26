@@ -18,8 +18,6 @@ import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 /**
  * NewsPipeline
  *
- * @author Gao Shen
- * @version 16/3/1
  */
 public abstract class ESPipeline extends IDAO implements Pipeline {
     private final String INDEX_NAME, TYPE_NAME;

@@ -11,7 +11,7 @@ import com.gs.spider.controller.BaseController;
 import com.gs.spider.utils.AppInfo;
 
 /**
- * Created by gsh199449 on 2016/11/24.
+ * Created.
  */
 @Controller
 @RequestMapping("/")

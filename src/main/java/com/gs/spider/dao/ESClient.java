@@ -27,8 +27,6 @@ import java.net.InetAddress;
 /**
  * ESClient
  *
- * @author Gao Shen
- * @version 16/1/21
  */
 @Component
 @Scope("prototype")

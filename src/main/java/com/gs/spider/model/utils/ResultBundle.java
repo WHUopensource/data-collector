@@ -2,7 +2,7 @@ package com.gs.spider.model.utils;
 
 /**
  * 结果集
- * Created by gaoshen on 16/1/5.
+ *
  */
 public class ResultBundle<T> {
     /**

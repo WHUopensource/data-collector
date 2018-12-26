@@ -18,8 +18,6 @@ import java.io.IOException;
  * AsyncGatherBaseController
  * 异步抓取器的Controller
  *
- * @author Gao Shen
- * @version 16/2/23
  */
 public class AsyncGatherBaseController extends BaseController {
     private AsyncGatherService asyncGatherService;

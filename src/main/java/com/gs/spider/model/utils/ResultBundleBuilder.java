@@ -10,8 +10,6 @@ import java.util.Collection;
 /**
  * ResultBundleBuilder
  *
- * @author Gao Shen
- * @version 16/2/27
  */
 @Component
 @Scope("singleton")

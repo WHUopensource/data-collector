@@ -14,7 +14,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by gsh199449 on 2016/12/8.
+ * Created
  */
 @Component
 public class JsonFilePipeline implements Pipeline {

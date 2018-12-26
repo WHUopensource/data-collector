@@ -10,7 +10,7 @@ import org.quartz.JobExecutionException;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 
 /**
- * Created by gaoshen on 2017/1/18.
+ * Created
  */
 @DisallowConcurrentExecution
 public class WebpageSpiderJob extends QuartzJobBean {
